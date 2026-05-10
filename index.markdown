@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Content
+This is my new website.
