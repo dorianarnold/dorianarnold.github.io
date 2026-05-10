@@ -28,7 +28,7 @@ url: "https://dorianarnold.github.io"
 github_username:  dorianarnold
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: cayman
 plugins:
   - jekyll-feed
 
